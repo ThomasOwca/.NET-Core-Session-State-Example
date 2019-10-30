@@ -29,9 +29,10 @@ namespace SessionStateExample
 
             services.AddSession(options =>
             {
-                // Set the session expiration to 3 hours.
-                options.IdleTimeout = TimeSpan.FromSeconds(10800);
+                // Set the session expiration to 10 seconds.
+                options.IdleTimeout = TimeSpan.FromSeconds(10);
                 options.Cookie.HttpOnly = true;
+                options.Cookie.Name = ".Validation.Session";
                 // Make the session cookie essential
                 options.Cookie.IsEssential = true;
             });

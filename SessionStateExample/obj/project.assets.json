@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thomas\\Desktop\\SessionStateExample\\SessionStateExample.csproj",
+      "projectUniqueName": "C:\\Users\\Thomas\\Documents\\Computer Science\\ASP.NET Projects\\.NET Core\\.NET-Core-Session-State-Example\\SessionStateExample\\SessionStateExample.csproj",
       "projectName": "SessionStateExample",
-      "projectPath": "C:\\Users\\Thomas\\Desktop\\SessionStateExample\\SessionStateExample.csproj",
+      "projectPath": "C:\\Users\\Thomas\\Documents\\Computer Science\\ASP.NET Projects\\.NET Core\\.NET-Core-Session-State-Example\\SessionStateExample\\SessionStateExample.csproj",
       "packagesPath": "C:\\Users\\Thomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thomas\\Desktop\\SessionStateExample\\obj\\",
+      "outputPath": "C:\\Users\\Thomas\\Documents\\Computer Science\\ASP.NET Projects\\.NET Core\\.NET-Core-Session-State-Example\\SessionStateExample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

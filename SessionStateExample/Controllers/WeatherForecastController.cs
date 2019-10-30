@@ -25,7 +25,7 @@ namespace SessionStateExample.Controllers
             _logger = logger;
         }
 
-        public void SomeMethod()
+        public string SomeMethod()
         {
             string SessionKeyName = "_Name";
             string SessionKeyAge = "_Age";
@@ -38,7 +38,7 @@ namespace SessionStateExample.Controllers
                 if (HttpContext.Request.Headers["Name"] == HttpContext.Session.GetString(SessionKeyName) && HttpContext.Request.Headers["Group"] == HttpContext.Session.GetString(SessionKeyGroup))
                 {
                     // Short circuit, and by-pass the need to re-validate the user or whatever...
-                    return;
+                    return "Bypass Valid logic.";
                 }
             }
 
@@ -63,21 +63,16 @@ namespace SessionStateExample.Controllers
                     HttpContext.Session.SetString(SessionKeyGroup, HttpContext.Request.Headers["Group"]);
                 }
             }
+
+            return "Valid";
         }
 
         [HttpGet]
-        public IEnumerable<WeatherForecast> Get()
+        public IActionResult Get()
         {
-            SomeMethod();
+            var status = SomeMethod();
 
-            var rng = new Random();
-            return Enumerable.Range(1, 5).Select(index => new WeatherForecast
-            {
-                Date = DateTime.Now.AddDays(index),
-                TemperatureC = rng.Next(-20, 55),
-                Summary = Summaries[rng.Next(Summaries.Length)]
-            })
-            .ToArray();
+            return Ok(status);
         }
     }
 }

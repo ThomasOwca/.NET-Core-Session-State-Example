@@ -18,3 +18,23 @@ C:\Users\Thomas\Desktop\SessionStateExample\obj\Debug\netcoreapp3.0\SessionState
 C:\Users\Thomas\Desktop\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.csproj.CopyComplete
 C:\Users\Thomas\Desktop\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.dll
 C:\Users\Thomas\Desktop\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.pdb
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\SessionStateExample.exe
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\SessionStateExample.deps.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\SessionStateExample.runtimeconfig.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\SessionStateExample.runtimeconfig.dev.json
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\SessionStateExample.dll
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\SessionStateExample.pdb
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\staticwebassets\SessionStateExample.StaticWebAssets.Manifest.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\staticwebassets\SessionStateExample.StaticWebAssets.xml
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.AssemblyInfoInputs.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.AssemblyInfo.cs
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.RazorTargetAssemblyInfo.cache
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.csproj.CopyComplete
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.dll
+C:\Users\Thomas\Documents\Computer Science\ASP.NET Projects\.NET Core\.NET-Core-Session-State-Example\SessionStateExample\obj\Debug\netcoreapp3.0\SessionStateExample.pdb
